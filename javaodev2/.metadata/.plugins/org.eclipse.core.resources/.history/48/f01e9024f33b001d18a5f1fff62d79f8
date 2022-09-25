@@ -1,0 +1,26 @@
+package classesWithAttributes;
+
+public class Product {
+private String _name;
+private String _description;
+private double _price;
+private int _stockAmount;
+private int _id;
+private String _kod;
+
+public String get_name() {
+	return _name;
+}
+public void set_name(String _name) {
+	this._name = _name;
+}
+public int getId() {
+	return _id;
+	
+	
+}
+public void setId(int id) {
+	_id=id;
+}
+
+}

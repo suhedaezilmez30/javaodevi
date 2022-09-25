@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\bilis\OneDrive\Masaüstü\javaodev4\.metadata\.plugins\org.eclipse.jdt.core
+1525170249.index
+2525153150.index
+1357689320.index
+2908218732.index
+1865797976.index
+4163541083.index
+2104893808.index
